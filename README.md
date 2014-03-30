@@ -1,6 +1,12 @@
 nnif1
 =====
 
+This is my neural network interconnect.  I am not sure, but I believe I invented (if not, reinvented) this function.  Proof will be found in the form of that someone with a math background could have done a much better job.
+
+I created this function for the Netflix Prize competition.  I don't have an actual date, but my gut feeling was it was three months or so after the contest began, which places it around January 2007ish.
+
+
+
 StoneCypher's Neural Net Interconnect Function 1
 ------------------------------------------------
 
